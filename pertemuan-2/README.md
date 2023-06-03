@@ -30,9 +30,7 @@
 ## Ketentuan Pengumpulan:
 
 - Push task ke Repository Github.
-- Submit link repository ke Elena.
+- Submit link repository ke Form.
 - Tugas tidak perlu dizip.
 - Folder `node_modules` tidak perlu diupload.
-- Submit task sesuai kelas:
-  - Kamis: 03 Maret 2022, [Link Elena](https://elena.nurulfikri.ac.id/mod/assign/view.php?id=24689)
-  - Jumat: 05 Maret 2022, [Link Elena](https://elena.nurulfikri.ac.id/mod/assign/view.php?id=25572)
+
