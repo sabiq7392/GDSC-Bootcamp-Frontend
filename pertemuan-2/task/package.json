@@ -1,0 +1,16 @@
+{
+  "name": "gdsc-bootcamp-frontendd-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node task.js",
+    "dev": "nodemon task.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
