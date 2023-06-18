@@ -1,3 +1,4 @@
+// @ts-check
 
 /**
  * @point_plus jika strict type (//@ts-check) variables, function return, function params

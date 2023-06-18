@@ -1,0 +1,13 @@
+.list_item {
+  list-style-type: none; 
+}
+
+.item {
+  color: blue;
+}
+
+@media (min-width: 768px) {
+  .item {
+    color: red;
+  }
+}
