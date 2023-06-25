@@ -1,0 +1,35 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: var(--primary, #06d6a0);
+    padding: 20px;
+  }
+  
+  footer div {
+    color: #fff;
+    font-size: 25px;
+  }
+  
+  footer h1 {
+    margin: 0;
+    color: white;
+    font-size: 48px;
+  }
+  
+  footer nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  footer nav ul li {
+    display: inline;
+  }
+  
+  footer nav ul li a {
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    font-size: 25px;
+  }

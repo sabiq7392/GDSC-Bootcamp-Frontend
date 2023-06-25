@@ -1,0 +1,13 @@
+.item {
+  color: red;
+}
+
+.container {
+  border-bottom: 1px solid #eeee;
+}
+
+@media (min-width: 768px) {
+  .container {
+    background: black;
+  }
+}
